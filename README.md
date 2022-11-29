@@ -2,7 +2,6 @@
 
 <div align="center">
 
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b>Microverse README</b></h3>
@@ -37,13 +36,6 @@
 - GitHub: [@githubhandle](https://github.com/chibunduonyeje1)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/chibunduonyeje1/)
-
-👤 **Author2**
-
-- GitHub: [@dfsalam](https://github.com/dfsalam)
-- Twitter: [@mech_programmer](https://twitter.com/mech_programmer)
-- LinkedIn: [LinkedIn](www.linkedin.com/in/diego-salamanca-5446141b8)
-
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
