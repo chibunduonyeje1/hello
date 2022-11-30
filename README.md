@@ -31,7 +31,6 @@
 ## 👥 Authors <a name="authors"></a>
 
 
-
 👤 **Author1**
 - GitHub: [@githubhandle](https://github.com/chibunduonyeje1)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
